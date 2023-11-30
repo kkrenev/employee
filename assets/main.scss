@@ -1,0 +1,12 @@
+@import "reset";
+@import "variables";
+
+body {
+  background-color: $bg;
+  font-family: Verdana, sans-serif;
+}
+
+
+:hover {
+  animation: ease 0.3s;
+}
